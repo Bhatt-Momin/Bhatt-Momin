@@ -52,7 +52,7 @@
 ### 📌 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Bhat Momin" target="_blank">
+  <a href="https://www.linkedin.com/in/bhat-momin-617458294/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mominnazir191201@gmail.com">
