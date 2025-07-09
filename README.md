@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **competitive programming and building cool projects**
-- 🌱 I’m learning **Data Structures & Algorithms**, **OOP**, and exploring **Backend Development**
+- 🌱 I’m learning **Data Structures & Algorithms**, **OOP**, and exploring **Data Science**
 - 👯 I’m looking to collaborate on **open-source** and **fun side projects**
 - 🧠 Always curious about **how code works under the hood**
 - 📫 Reach me at: `mominnazir191201@gmail.com`
